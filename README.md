@@ -65,16 +65,4 @@ print(response.json()['response'])
 * **Ephemeral Storage:** Colab instances are temporary. You will need to re-run the installation and model pull each time you connect to a new runtime.
 * **VRAM Limits:** Stick to models under 4B parameters to avoid "Out of Memory" (OOM) errors on the 15GB T4 GPU.
 
----
 
-*Created by a networking professional for the dev community. Feedback and PRs are welcome!*
-
----
-
-### Pro-Tips for your GitHub:
-
-1. **Name the file:** `README.md` (all caps) so GitHub renders it automatically on the main page.
-2. **Add a License:** Consider adding an `MIT License` file to your repo to encourage others to use and share your hack.
-3. **Visuals:** If you have a screenshot of the output in Colab, include it in the repo and link it in the README!
-
-**Would you like me to generate a specific technical diagram to explain the networking flow between the Colab cell and the Ollama daemon for this README?**
