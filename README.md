@@ -1,8 +1,4 @@
 # LLMwidGoogleCollab
-Readme and sample notebook for running open source LLM with Google Collab
-A well-structured `README.md` is the "front door" of your GitHub repository. Since you're targeting a technical audience, it should emphasize the problem (token limits) and the architectural solution (local API hosting).
-
-Here is a professionally formatted README you can copy directly:
 
 ---
 
